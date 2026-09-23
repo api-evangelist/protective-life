@@ -1,7 +1,9 @@
 ---
 title: Protective Life Corp. Ratings Affirmed On Announc
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3150288
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Protective Life" press release artificial intelligence'
 position: 1
 source: serpapi-google

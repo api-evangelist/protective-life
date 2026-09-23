@@ -1,7 +1,9 @@
 ---
 title: Protective Life Corporation
 url: https://www.fitchratings.com/research/insurance/protective-life-corporation-02-06-2025
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Protective Life" press release artificial intelligence'
 position: 5
 source: serpapi-google
