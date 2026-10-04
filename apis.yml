@@ -32,7 +32,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/protective
 tags:
   - Annuities
   - Asset Protection
-  - Financial-Services
+  - Financial Services
   - Insurance
   - Life Insurance
   - Protective Life
@@ -43,6 +43,7 @@ tags_raw:
   - Insurance
   - Life Insurance
   - Protective Life
+  - Financial-Services
 url: >-
   https://raw.githubusercontent.com/api-evangelist/protective-life/refs/heads/main/apis.yml
 created: '2025-05-02'
